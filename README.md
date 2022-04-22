@@ -17,7 +17,7 @@
 
 <!-- - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/shadrack-bentil-410422199" target = "_blank">LinkedIn</a> -->
 
-## **I've got everything to do with writing codes😍**
+## I've got everything to do with writing codes😍
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=ethel3&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethel3&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ethel3&theme=github_dark)
