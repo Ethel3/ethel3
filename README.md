@@ -5,7 +5,7 @@
 
 
 
-- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/akrasiethelakosua" target = "_blank">LinkedIn</a> 
+<-- - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/akrasiethelakosua" target = "_blank">LinkedIn</a> --> 
 
 ## I've got everything to do with writing codes😍 <br />
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=ethel3&theme=dracula&hide_border=true)
